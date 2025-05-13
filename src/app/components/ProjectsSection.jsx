@@ -20,7 +20,7 @@ const projectsData = [
     description: "Travel Tourism Website",
     image: "/images/projects/2.png",
     tag: ["All", "Frontend"],
-    gitUrl: "https://github.com/harshadapatil1103/ComfortVacanze",
+    gitUrl: "https://github.com/harshadapatil1103",
     previewUrl: "https://www.comfortvacanze.com/",
   },
   {
@@ -29,7 +29,7 @@ const projectsData = [
     description: "Edutect Platform",
     image: "/images/projects/3.png",
     tag: ["All", "FullStack"],
-    gitUrl: "https://github.com/harshadapatil1103/truskill_frontend",
+    gitUrl: "https://github.com/harshadapatil1103",
     previewUrl: "https://truskill.in/",
   },
   {
